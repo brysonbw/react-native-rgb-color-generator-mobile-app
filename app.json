@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "rn-color-picker",
-    "slug": "rn-color-picker",
+    "name": "Rgb Color Generator",
+    "slug": "rgb-color-generator",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/rbg-color-generator-logo.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -26,7 +26,8 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/rbg-color-generator-logo.png"
+    },
+    "description": "Anonymous users can generate a random rgb color and code or create a color by adjusting rgb color values."
   }
 }
